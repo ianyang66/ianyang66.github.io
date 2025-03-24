@@ -7,14 +7,13 @@ author_profile: true
 
 Welcome to collaborate on research.
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can find most of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
-The asterisk **<sup>1</sup>** next to the author's name indicates co-first authorship.
-
+The asterisk **<sup>1</sup>** next to the author's name indicates co-first authorship.\\
 The asterisk **<sup>*</sup>** next to the author's name indicates co-responding author(s).
 
 ## Under Review

@@ -19,18 +19,10 @@ His recent research (with CyCraft Inc.) on fuzzing techniques for the Bluetooth 
 
 ---
 
-My direction is on security and privacy of AI-driven systems. My recent efforts concentrate on adversarial attacks, intrusion detection, secure federated learning, privacy obfuscation, and provable security on AI systems.
-
-- **Self-Supervised Learning (SSL)**: Learning speech representations from unlabeled data. We discover that speech SSL techniques lead to representations with strong task generalizability beyond Automatic Speech Recognition (ASR).
-Additionally, we explore their use across a broad spectrum of real-life speech applications, which marks the beginning of the era of speech foundation models (SFM).
-
-- **Representation Generalizability**: Benchmarking the task and domain generalizability of SFMs. I think deeply about the purpose and methods of creating a correct and solidly grounded benchmark, especially regarding its important role in guiding future model development.
-
-- **Efficient Pre-training**: All existing SFMs require industrial-level computing, which makes further research monopolized by large corporations. I am currently working on how to pre-train SFMs efficiently within academic resources.
+My primarily direction is on security and privacy of AI-driven systems. My recent efforts concentrate on adversarial attacks, intrusion detection, secure federated learning, privacy obfuscation, and provable security on AI systems.
 
 I am always open to collaborations involving dense and deep discussions, where I can learn from new explorations and intense debates regardless of co-authorship.
 If you are interested in collaborating, please reach me at my email: [ianyangdoc@gmail.com](mailto:ianyangdoc@gmail.com).
-
 
 
 ## Visitors
