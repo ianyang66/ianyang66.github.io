@@ -25,7 +25,7 @@ The asterisk **<sup>*</sup>** next to the author's name indicates co-responding 
 
 - ### FuBuKi: Fuzzing Testing on Bluetooth with Profile Emulation Kit
 
-  Zhao-Min Chen**<sup>*</sup>**, Yu-Sheng Lin, Tien-Chih Lin, **<u>Guan-Yan Yang</u>****<sup>*</sup>**, Farn Wang\\
+  Zhao-Min Chen<sup>*</sup> , Yu-Sheng Lin, Tien-Chih Lin, **<u>Guan-Yan Yang</u>****<sup>*</sup>**, Farn Wang\\
   in **the proceedings of 33rd USENIX Security Symposium (USENIX Security 24)**, 2024
 
 - ### Application of Simplified Swarm Optimization on Graph Convolutional Networks
