@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, National Taiwan University, 2026 (expected)
+* M.S. in Electrical Engineering, National Taiwan University, 2024 (X)
+* B.S. in Information Management, National Taiwan University, 2022
 
 Work experience
 ======
@@ -24,22 +24,21 @@ Work experience
 
 * Fall 2015: Research Assistant
   * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: 
+  * Supervisor: Prof. Kuo-Hui Yeh
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Software Engineer Intern
+  * Taiwan Semiconductor Manufacturing Company Limited.
+  * Duties included: machine learning to improve DRC quality.
+  * Supervisor: James Yu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sleep
+* Murmur
+  * I don't want to do research.
+  * but, ...
+  * still do it...
 
 Publications
 ======
@@ -47,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
