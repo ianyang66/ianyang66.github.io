@@ -13,24 +13,39 @@ Education
 ======
 * Ph.D in Electrical Engineering, National Taiwan University, 2026 (expected)
 * M.S. in Electrical Engineering, National Taiwan University, 2024 (X)
-* B.S. in Information Management, National Taiwan University, 2022
+* B.S. in Information Management, National Dong Hwa University, 2022
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - : Graduate Researcher
+  * Taiwan Academic Cybersecurity Center, National Taiwan University of Science and Technology
+  * Duties included: Research on security and privacy for AI-driven systems.
+  * Supervisor: Prof. Shi-Cho Cha
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: 
+* 2024 - : Graduate Researcher
+  * National Yang Ming Chiao Tung University
+  * Duties included: Research on security and privacy for AI-driven systems.
   * Supervisor: Prof. Kuo-Hui Yeh
+
+* 2022 - : Graduate Researcher
+  * National Taiwan University
+  * Duties included: lead a ten-member team to research on AI safty, IoT security, HCI methodologies, and Generative AI.
+  * Supervisor: Prof. Farn Wang
 
 * Summer 2023: Software Engineer Intern
   * Taiwan Semiconductor Manufacturing Company Limited.
   * Duties included: machine learning to improve DRC quality.
   * Supervisor: James Yu
+
+* 2021 - 2022: Researcher
+  * National Taiwan University of Science and Technology
+  * Duties included: execute for 2 NSTC projects about blockchain security and the security of Taiwan's electronic ID card.
+  * Supervisor: Prof. Shi-Cho Cha, Prof. Tzong-Chen Wu
+
+* 2020 - 2022: Researcher
+  * National Dong Hwa University
+  * Duties included: execute for 2 NSTC projects about blockchain security.
+  * Supervisor: Prof. Kuo-Hui Yeh
   
 Skills
 ======
@@ -38,7 +53,7 @@ Skills
 * Murmur
   * I don't want to do research.
   * but, ...
-  * still do it...
+  * I still do it...
 
 Publications
 ======
@@ -46,6 +61,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Reviewer
+======
+* IEEE Access
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
