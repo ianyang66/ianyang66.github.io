@@ -30,4 +30,4 @@ If you are interested in collaborating, please reach me at my email: [ianyangdoc
 ## Visitors
 
 <br>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JbSHTtGE3GD1BUYExmhe9kfiyfxHKYRmkL8s4_oNn9M"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JbSHTtGE3GD1BUYExmhe9kfiyfxHKYRmkL8s4_oNn9M&w=200"></script>
