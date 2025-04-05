@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical Engineering, National Taiwan University, 2026 (expected)
-* M.S. in Electrical Engineering, National Taiwan University, 2024 (X)
+* M.S. in Electrical Engineering, National Taiwan University, 2024.01 (x)
 * B.S. in Information Management, National Dong Hwa University, 2022
 
 Experience

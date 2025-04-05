@@ -1,9 +1,10 @@
 ---
 layout: single
 permalink: /message-board/
-title: "Message Board"
+title: "Message Board(Depreciated)"
 ---
 
+<h2>Just for PADNS Lab04, not for Midterm</h2>
 <h2>Leave a Message:</h2>
 
 <form id="messageForm">

@@ -4,6 +4,9 @@ permalink: /honors/
 title: "Honors"
 ---
 
+* **AI for Cyber Security Scholarship** *(2025)*
+    * USD 5,000
+    * 1 winner from Denmark Government
 * **Dr. Norman Scholarship** *(2025)*
     * USD 5,000
     * 2 winners from the EECS department of NTU
