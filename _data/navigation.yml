@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Message Board"
-    url: /message-board/
+  # - title: "Message Board"
+  #   url: /message-board/
   # - title: "CV"
   #   url: /cv-json/
     
