@@ -31,7 +31,7 @@ title: "Honors"
     * Host: Hahow Coporation
 * **Advanced Information Security Summer School(AIS3) EOF CTF - 13th** *(2023)*
     * Host: Ministry of Education at Taiwan
-* **第二十六屆全國大專校院資訊應用服務創新競賽 「資訊應用組」第三名** *(2021)*
+* **第二十六屆全國大專校院資訊應用服務創新競賽 「資訊應用組」第三名** *(2021)
     * 主題：「AntiACar」，透過遷移式學習實現自動停車
 * **Advanced to the Second Stage of the International Geography Olympiad National Team Selection**  *(2017)*
 
