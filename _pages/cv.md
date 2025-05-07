@@ -45,13 +45,13 @@ Experience
 * 2021 - 2022: President 
   * The 2nd Information Security Research Club at National Dong Hwa University
 
-* 2020 - 2021: Vice President 
-  * The 1st Information Security Research Club at National Dong Hwa University
-
 * 2021 - 2022: Researcher
   * National Taiwan University of Science and Technology
   * Duties included: execute for 2 NSTC projects about blockchain security and the security of Taiwan's electronic ID card.
-  * Supervisor: [Prof. Shi-Cho Cha](https://www.cs.ntust.edu.tw/p/405-1102-106269,c10961.php?Lang=en), Prof. [Tzong-Chen Wu](https://www.cs.ntust.edu.tw/p/405-1102-104683,c10827.php?Lang=en)
+  * Supervisor: [Prof. Shi-Cho Cha](https://www.cs.ntust.edu.tw/p/405-1102-106269,c10961.php?Lang=en), [Prof. Tzong-Chen Wu](https://www.cs.ntust.edu.tw/p/405-1102-104683,c10827.php?Lang=en)
+
+* 2020 - 2021: Vice President 
+  * The 1st Information Security Research Club at National Dong Hwa University
 
 * 2020 - 2022: Researcher
   * National Dong Hwa University
@@ -60,6 +60,10 @@ Experience
 
 
 
+Reviewer
+======
+* Journal of Information Security and Applications, ELSEVIER (SCI Q1 76.79%; Impact Factor=3.8)
+* IEEE Access
 <!-- Skills
 ======
 * Sleep
@@ -74,8 +78,5 @@ Experience
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-Reviewer
-======
-* Journal of Information Security and Applications, ELSEVIER (SCI Q1 76.79%; Impact Factor=3.8)
-* IEEE Access
+
 
