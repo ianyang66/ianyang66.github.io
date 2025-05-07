@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, National Taiwan University, 2026 (expected)
-* M.S. in Electrical Engineering, National Taiwan University, 2024.01 (x)
-* B.S. in Information Management, National Dong Hwa University, 2022
+* Ph.D. in Electrical Engineering, National Taiwan University (2023-Now)
+* M.S. in Electrical Engineering, National Taiwan University (2022-2024, 2024.01 Direct Admission to Ph.D.)
+* B.S. in Information Management, National Dong Hwa University (2018-2022)
 
 Experience
 ======
+* 2025 - : Graduate Researcher
+  * Academia Sinica, Institute of Information Science
+  * Duties included: research on LLMs for fake news.
+  * Supervisor: [Prof. Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html)
+
 * 2024 - : Graduate Researcher
   * Taiwan Academic Cybersecurity Center, National Taiwan University of Science and Technology
   * Duties included: research on security and privacy for AI-driven systems.
@@ -35,7 +40,13 @@ Experience
 * Summer 2023: Software Engineer Intern
   * Taiwan Semiconductor Manufacturing Company Limited.
   * Duties included: machine learning to improve DRC quality.
-  * Supervisor: James Yu
+  * Supervisor: James Yu, Steven Chen
+
+* 2021 - 2022: President 
+  * The 2nd Information Security Research Club at National Dong Hwa University
+
+* 2020 - 2021: Vice President 
+  * The 1st Information Security Research Club at National Dong Hwa University
 
 * 2021 - 2022: Researcher
   * National Taiwan University of Science and Technology
@@ -46,23 +57,25 @@ Experience
   * National Dong Hwa University
   * Duties included: execute for 2 NSTC projects about blockchain security.
   * Supervisor: [Prof. Kuo-Hui Yeh](https://scholar.google.com.tw/citations?user=nLG4OMAAAAAJ&hl=zh-TW)
-  
-Skills
+
+
+
+<!-- Skills
 ======
 * Sleep
 * Murmur
   * I don't want to do research.
   * but, ...
   * I still do it...
-* 
+*  -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
 Reviewer
 ======
+* Journal of Information Security and Applications, ELSEVIER (SCI Q1 76.79%; Impact Factor=3.8)
 * IEEE Access
 
