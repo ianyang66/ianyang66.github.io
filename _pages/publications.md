@@ -24,11 +24,11 @@ Those with link (blue text) indicate current positions as researchers.
 ## Accepted
 
 - **TPSQLi: Test Prioritization for SQL Injection Vulnerability Detection in Web Applications**  
-  [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), [*Farn Wang**](https://cc.ee.ntu.edu.tw/~farn/), You-Zong Gu, Ya-Wen Teng, [*Kuo-Hui Yeh**](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW), Ping-Hsueh Ho, Wei-Ling Wen  
+  [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), [_Farn Wang_*](https://cc.ee.ntu.edu.tw/~farn/), You-Zong Gu, Ya-Wen Teng, [_Kuo-Hui Yeh_*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW), Ping-Hsueh Ho, Wei-Ling Wen  
   Published in **Applied Sciences**, 2024 (SCI; Q1 76%; Impact Factor = 2.5).
 
 - **FuBuKi: Fuzzing Testing on Bluetooth with Profile Emulation Kit**  
-  [Zhao Min Chen<sup>*</sup>](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), [Yu-Sheng Lin](https://blog.star03.me/about/), [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin), [**Guan-Yan Yang<sup>*</sup>**](https://orcid.org/0009-0002-2539-9057), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
+  [Zhao Min Chen*](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), [Yu-Sheng Lin](https://blog.star03.me/about/), [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin), [**Guan-Yan Yang<sup>*</sup>**](https://orcid.org/0009-0002-2539-9057), [_Farn Wang_](https://cc.ee.ntu.edu.tw/~farn/)  
   Published in **33rd USENIX Security Symposium (USENIX Security 24)**, 2024.  
   - **Top-tier international conference in information security.** 
   - **According to the statement by the cybersecurity committee member of the National Science and Technology Council: Over the past 20 years, on average, fewer than one Taiwanese research team has been accepted each year.**
@@ -36,7 +36,7 @@ Those with link (blue text) indicate current positions as researchers.
   - Key contribution: Systematic discovery of **system crashes** in Tesla vehicles.
 
 - **Application of Simplified Swarm Optimization on Graph Convolutional Networks**  
-  Ho-Yin Wong<sup>1</sup>, [**Guan-Yan Yang<sup>1,*</sup>**](https://orcid.org/0009-0002-2539-9057), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
+  Ho-Yin Wong<sup>1</sup>, **[Guan-Yan Yang<sup>1,*</sup>](https://orcid.org/0009-0002-2539-9057)**, [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Published in **ICCES 2024**, Singapore.
 
 - **Automated Vulnerability Detection Using Deep Learning Technique**  
