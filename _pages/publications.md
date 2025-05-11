@@ -101,7 +101,7 @@ Those with link (blue text) indicate current positions as researchers.
 
 - **Cryptanalysis of the Certificateless Aggregate Signature for Network Communication**  
   [*<u>Wayne Chiu</u>(IEEE Member)*](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW), [**<u>Guan-Yan Yang</u>**](https://orcid.org/0009-0002-2539-9057), [*<u>Hu Xiong</u>(IEEE Senior Member)*](https://scholar.google.com/citations?user=dZR8algAAAAJ&hl=zh-CN), [*<u>Willy Susilo</u>(IEEE Fellow)*](https://scholar.google.com.au/citations?user=eNOmOvkAAAAJ&hl=en), [*<u>Weizhi Meng</u>*<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=OlepJ5wAAAAJ&hl=en)  
-  Submitted to **IEEE Transactions on Network and Service Management** (SCI; Q1 81%; Impact Factor = 4.7) on 2024.06.25; Revision 1 on 2025.02.08; Revision 2 on 2025.04.20.
+  Submitted to **IEEE Transactions on Network and Service Management** (SCI; Q1 81%; Impact Factor = 4.7) on 2024.05.25; Revision 1 on 2025.02.08; Revision 2 on 2025.04.20.
 
 ---
 
