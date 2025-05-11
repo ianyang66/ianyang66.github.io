@@ -24,7 +24,7 @@ Those with link (blue text) indicate current positions as researchers.
 ## Accepted
 
 - **TPSQLi: Test Prioritization for SQL Injection Vulnerability Detection in Web Applications**  
-  [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), _[Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)_, You-Zong Gu, Ya-Wen Teng, _[Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, Ping-Hsueh Ho, Wei-Ling Wen  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)_, You-Zong Gu, Ya-Wen Teng, _[Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, Ping-Hsueh Ho, Wei-Ling Wen  
   Published in **Applied Sciences**, 2024 (SCI; Q1 76%; Impact Factor = 2.5).
 
 - **FuBuKi: Fuzzing Testing on Bluetooth with Profile Emulation Kit**  
@@ -76,7 +76,7 @@ Those with link (blue text) indicate current positions as researchers.
   Submitted to **IEEE Network** (SCI; Q1 90.7%; Impact Factor = 6.8) on 2025.05.06.
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
-  [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
   Submitted to **IEEE Network** (SCI; Q1 90.7%; Impact Factor = 6.8) on 2025.05.01; Revision 1 due 2025.05.30.
 
 - **Driving Quality: How Good Questions Improve LLM Explanations**  
@@ -84,7 +84,7 @@ Those with link (blue text) indicate current positions as researchers.
   Submitted to **CoLM** on 2025.03.27.
 
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
-  [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **IEEE Transactions on Consumer Electronics** (SCI; Q1 76.3%; Impact Factor = 4.3) on 2025.03.15; Revision 1 on 2025.04.22.
 
 - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
@@ -100,7 +100,7 @@ Those with link (blue text) indicate current positions as researchers.
   Submitted to **Journal of Network and Computer Applications**, ELSEVIER (SCI; Q1 95.8%; Impact Factor = 7.7) on 2024.11.04; Revision 1 due 2025.05.15.
 
 - **Cryptanalysis of the Certificateless Aggregate Signature for Network Communication**  
-  _[Wayne Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)(IEEE Member)_, [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), _[Hu Xiong](https://scholar.google.com/citations?user=dZR8algAAAAJ&hl=zh-CN)(IEEE Senior Member)_, _[Willy Susilo](https://scholar.google.com.au/citations?user=eNOmOvkAAAAJ&hl=en)(IEEE Fellow)_, _[Weizhi Meng](https://scholar.google.com/citations?user=OlepJ5wAAAAJ&hl=en)<sup>*</sup>(IEEE Senior Member)_  
+  _[Wayne Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)(IEEE Member)_, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Hu Xiong](https://scholar.google.com/citations?user=dZR8algAAAAJ&hl=zh-CN)(IEEE Senior Member)_, _[Willy Susilo](https://scholar.google.com.au/citations?user=eNOmOvkAAAAJ&hl=en)(IEEE Fellow)_, _[Weizhi Meng](https://scholar.google.com/citations?user=OlepJ5wAAAAJ&hl=en)<sup>*</sup>(IEEE Senior Member)_  
   Submitted to **IEEE Transactions on Network and Service Management** (SCI; Q1 81%; Impact Factor = 4.7) on 2024.05.25; Revision 1 on 2025.02.08; Revision 2 on 2025.04.20.
 
 ---
