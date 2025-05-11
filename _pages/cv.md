@@ -34,7 +34,7 @@ Experience
 
 * 2022 - : Graduate Researcher
   * National Taiwan University
-  * Duties included: lead a ten-member team to research on AI safty, IoT security, HCI methodologies, and Generative AI.
+  * Duties included: lead a ten-member team to research on AI safety, IoT security, HCI methodologies, and Generative AI.
   * Supervisor: [Prof. Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)
 
 * Summer 2023: Software Engineer Intern
