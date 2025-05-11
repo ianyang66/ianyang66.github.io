@@ -108,17 +108,17 @@ Those with link (blue text) indicate current positions as researchers.
 ## Future Submissions (May & June 2025)
 
 - **Digital Twin-Driven Federated Learning for Enhancing Autonomous Driving**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, *Farn Wang*  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _Farn Wang_  
   To be submitted to **IEEE Transactions on Intelligent Transportation Systems** (SCI; Q1 98.63%; Impact Factor = 7.9) in May 2025.
 
 - **GIFU: A New Dataset Towards Cross-Language, Cross-Platform, Cross-Modal Sequential UI Screen Actions**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Guan-Jie Wang, *Farn Wang*, *Kuo-Hui Yeh*, *Lun-Wei Ku*  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Guan-Jie Wang, _Farn Wang_, _Kuo-Hui Yeh_, _Lun-Wei Ku_  
   To be submitted to **ACML** in May 2025.
 
 - **ProDirScan-GPT: Proxy-Based Directory Scanning with Large Language Model and GUI Testing**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, *Farn Wang*<sup>*</sup>, *Kuo-Hui Yeh*<sup>*</sup>, *Lun-Wei Ku*  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, _Farn Wang<sup>*</sup>_, _Kuo-Hui Yeh<sup>*</sup>_, _Lun-Wei Ku_  
   To be submitted to **IEEE Transactions on Reliability** (SCI; Q1 89.77%; Impact Factor = 5.0) in June 2025.
 
 - **GUIDiff: Graph User Interface Prototype Generation**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Hao Chen Jiang, *Farn Wang*<sup>*</sup>, *Kuo-Hui Yeh*<sup>*</sup>, *Lun-Wei Ku*  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Hao Chen Jiang, _Farn Wang<sup>*</sup>_, _Kuo-Hui Yeh<sup>*</sup>_, _Lun-Wei Ku_  
   To be submitted to **IEEE Transactions on Software Engineering** (SCI; Q1 93.6%; Impact Factor = 6.5) in June 2025.
