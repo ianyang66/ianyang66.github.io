@@ -17,8 +17,8 @@ author_profile: true
 
 The asterisk **<sup>1</sup>** next to the author's name indicates co-first authorship.  
 The asterisk **<sup>*</sup>** next to the author's name indicates corresponding authorship.  
-The professor's name is italicized and have link, e.g., *Farn Wang*.  
-Foreign researcher's name is italicized and underline, e.g., *Yang Xiang*.  
+The professor's name is italicized and have link, e.g., _Farn Wang_.  
+Foreign researcher's name is italicized and underline, e.g., _Yang Xiang_.  
 Those with link (blue text) indicate current positions as researchers.
 
 ## Accepted
@@ -64,11 +64,11 @@ Those with link (blue text) indicate current positions as researchers.
 ## Under Review
 
 - **Multi-Objective Evolution for Python Code Obfuscation with Class Confusion Strategies**  
-  Tsung-Han Liu*<sup>*</sup>*, **[Guan-Yan Yang<sup>*</sup>](https://orcid.org/0009-0002-2539-9057)** , [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
+  Tsung-Han Liu*<sup>*</sup>*, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>** , [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Submitted to **TCSE** on 2025.05.11.
 
 - **FRLFuzz: Federated Reinforcement Learning-based Fuzzing**  
-  **[Guan-Yan Yang<sup>*</sup>](https://orcid.org/0009-0002-2539-9057)**, Jin-Yi Lin, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Jin-Yi Lin, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
   Submitted to **TCSE** on 2025.05.07.
 
 - **Federated Reinforcement Learning-based Fuzzing on Internet of Energy**  
