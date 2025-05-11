@@ -84,11 +84,11 @@ Those with link (blue text) indicate current positions as researchers.
   Submitted to **CoLM** on 2025.03.27.
 
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
-  [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), _[Farn Wang<sup>*</sup>](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **IEEE Transactions on Consumer Electronics** (SCI; Q1 76.3%; Impact Factor = 4.3) on 2025.03.15; Revision 1 on 2025.04.22.
 
 - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
-  [Zhao Min Chen<sup>1</sup>](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), [Tien-Chih Lin<sup>1</sup>](https://tw.linkedin.com/in/dange-lin), **[Guan-Yan Yang<sup>1</sup>](https://orcid.org/0009-0002-2539-9057)**, [Yu-Sheng Lin<sup>1</sup>](https://blog.star03.me/about/), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
   Submitted to **IEEE Transactions on Information Forensics and Security** (SCI; Q1 91.3%; Impact Factor = 6.3) on 2025.01.22.
 
 - **Autonomous Generative Adversarial Network for Privacy Obfuscation in Smart Healthcare**  
@@ -100,7 +100,7 @@ Those with link (blue text) indicate current positions as researchers.
   Submitted to **Journal of Network and Computer Applications**, ELSEVIER (SCI; Q1 95.8%; Impact Factor = 7.7) on 2024.11.04; Revision 1 due 2025.05.15.
 
 - **Cryptanalysis of the Certificateless Aggregate Signature for Network Communication**  
-  [*Wayne Chiu(IEEE Member)*](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW), [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), [*Hu Xiong(IEEE Senior Member)*](https://scholar.google.com/citations?user=dZR8algAAAAJ&hl=zh-CN), [*Willy Susilo(IEEE Fellow)*](https://scholar.google.com.au/citations?user=eNOmOvkAAAAJ&hl=en), _[Weizhi Meng<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=OlepJ5wAAAAJ&hl=en)_  
+  _[Wayne Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)(IEEE Member)_, [**Guan-Yan Yang**](https://orcid.org/0009-0002-2539-9057), _[Hu Xiong](https://scholar.google.com/citations?user=dZR8algAAAAJ&hl=zh-CN)(IEEE Senior Member)_, _[Willy Susilo](https://scholar.google.com.au/citations?user=eNOmOvkAAAAJ&hl=en)(IEEE Fellow)_, _[Weizhi Meng](https://scholar.google.com/citations?user=OlepJ5wAAAAJ&hl=en)<sup>*</sup>(IEEE Senior Member)_  
   Submitted to **IEEE Transactions on Network and Service Management** (SCI; Q1 81%; Impact Factor = 4.7) on 2024.05.25; Revision 1 on 2025.02.08; Revision 2 on 2025.04.20.
 
 ---
@@ -108,15 +108,15 @@ Those with link (blue text) indicate current positions as researchers.
 ## Future Submissions (May & June 2025)
 
 - **Digital Twin-Driven Federated Learning for Enhancing Autonomous Driving**  
-  **[Guan-Yan Yang<sup>*</sup>](https://orcid.org/0009-0002-2539-9057)**, *Farn Wang*  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, *Farn Wang*  
   To be submitted to **IEEE Transactions on Intelligent Transportation Systems** (SCI; Q1 98.63%; Impact Factor = 7.9) in May 2025.
 
 - **GIFU: A New Dataset Towards Cross-Language, Cross-Platform, Cross-Modal Sequential UI Screen Actions**  
-  **[Guan-Yan Yang<sup>*</sup>](https://orcid.org/0009-0002-2539-9057)**, Guan-Jie Wang, *Farn Wang*, *Kuo-Hui Yeh*, *Lun-Wei Ku*  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Guan-Jie Wang, *Farn Wang*, *Kuo-Hui Yeh*, *Lun-Wei Ku*  
   To be submitted to **ACML** in May 2025.
 
 - **ProDirScan-GPT: Proxy-Based Directory Scanning with Large Language Model and GUI Testing**  
-  **[Guan-Yan Yang<sup>1</sup>**](https://orcid.org/0009-0002-2539-9057)**, Ping-Hsieh Ho<sup>1</sup>, *Farn Wang*<sup>*</sup>, *Kuo-Hui Yeh*<sup>*</sup>, *Lun-Wei Ku*  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, *Farn Wang*<sup>*</sup>, *Kuo-Hui Yeh*<sup>*</sup>, *Lun-Wei Ku*  
   To be submitted to **IEEE Transactions on Reliability** (SCI; Q1 89.77%; Impact Factor = 5.0) in June 2025.
 
 - **GUIDiff: Graph User Interface Prototype Generation**  
