@@ -92,11 +92,11 @@ Those with link (blue text) indicate current positions as researchers.
   Submitted to **IEEE Transactions on Information Forensics and Security** (SCI; Q1 91.3%; Impact Factor = 6.3) on 2025.01.22.
 
 - **Autonomous Generative Adversarial Network for Privacy Obfuscation in Smart Healthcare**  
-  **[Guan-Yan Yang<sup>*</sup>](https://orcid.org/0009-0002-2539-9057)**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Submitted to **IEEE Journal of Biomedical and Health Informatics** (SCI; Q1 89.8%; Impact Factor = 6.7) on 2024.12.25.
 
 - **ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test**  
-  **[Guan-Yan Yang<sup>1</sup>](https://orcid.org/0009-0002-2539-9057)**, Tzu-Yu Cheng<sup>1</sup>, Ya-Wen Teng, [*Farn Wang*<sup>*</sup>](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Tzu-Yu Cheng<sup>1</sup>, Ya-Wen Teng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **Journal of Network and Computer Applications**, ELSEVIER (SCI; Q1 95.8%; Impact Factor = 7.7) on 2024.11.04; Revision 1 due 2025.05.15.
 
 - **Cryptanalysis of the Certificateless Aggregate Signature for Network Communication**  
