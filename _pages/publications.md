@@ -13,7 +13,6 @@ author_profile: true
 
 {% include base_path %}
 
-======
 
 The asterisk **<sup>1</sup>** next to the author's name indicates co-first authorship.  
 The asterisk **<sup>*</sup>** next to the author's name indicates corresponding authorship.  
