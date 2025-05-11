@@ -80,7 +80,7 @@ Those with link (blue text) indicate current positions as researchers.
   Submitted to **IEEE Network** (SCI; Q1 90.7%; Impact Factor = 6.8) on 2025.05.01; Revision 1 due 2025.05.30.
 
 - **Driving Quality: How Good Questions Improve LLM Explanations**  
-  [Jui-Ning Chen<sup>1,*</sup>](https://orcid.org/0009-0002-6508-130X), _[Yi-Li Hsu<sup>1</sup>](https://orcid.org/0000-0001-9778-5921)_, _[Aiping Xiong](https://ist.psu.edu/directory/axx29)_, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Lun-Wei Ku*](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html)  
+  [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X)<sup>1,*</sup>, _[Yi-Li Hsu<sup>1</sup>](https://orcid.org/0000-0001-9778-5921)_, _[Aiping Xiong](https://ist.psu.edu/directory/axx29)_, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Lun-Wei Ku*](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html)  
   Submitted to **CoLM** on 2025.03.27.
 
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
