@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electrical Engineering, National Taiwan University (2023-Now)
+* Ph.D. in Electrical Engineering, National Taiwan University (2024-Now)
 * M.S. in Electrical Engineering, National Taiwan University (2022-2024, 2024.01 Direct Admission to Ph.D.)
 * B.S. in Information Management, National Dong Hwa University (2018-2022)
 
@@ -59,24 +59,11 @@ Experience
   * Supervisor: [Prof. Kuo-Hui Yeh](https://scholar.google.com.tw/citations?user=nLG4OMAAAAAJ&hl=zh-TW)
 
 
-
 Reviewer
 ======
 * Journal of Information Security and Applications, ELSEVIER (SCI Q1 76.79%; Impact Factor=3.8)
 * IEEE Access
-<!-- Skills
-======
-* Sleep
-* Murmur
-  * I don't want to do research.
-  * but, ...
-  * I still do it...
-*  -->
+* ICCES 2025
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 

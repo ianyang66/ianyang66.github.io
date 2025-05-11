@@ -23,6 +23,13 @@ title: "Honors"
     * The 4-year scholarship from National Dong Hwa University at Taiwan
 
 **Competitions**
+* **HITCON (Hackers in Taiwan Conference) CTF Competition - Taiwan Star Award (1st in Taiwan)** *(2024)*
+    * World rank: 7th.
+    * World hacking competition.
+    * This is one of the DEFCON Finals qualifiers.
+* **DEFCON CTF Final - 3rd** *(2023)*
+    * Representing Taiwan (TWN48 team).
+    * World top hacking competition.
 * **TSMC DNA Internship Competition (R&D - DTP) - 1st** *(2023)*
     * Host: Taiwan Semiconductor Manufacturing Company Limited.
     * Project title: Exploring Design Rule Checking Quality Improvement With the Power of Machine Learning.
@@ -32,7 +39,7 @@ title: "Honors"
     * Host: Hahow Coporation
 * **Advanced Information Security Summer School(AIS3) EOF CTF - 13th** *(2023)*
     * Host: Ministry of Education at Taiwan
-* **第二十六屆全國大專校院資訊應用服務創新競賽 「資訊應用組」第三名** *(2021)
-    * 主題：「AntiACar」，透過遷移式學習實現自動停車
+* **26th International ICT Innovative Services Awards - Information Application Group - 3rd** *(2021)*
+    * Topic: "AntiACar," implementing automatic parking through transfer learning.
 * **Advanced to the Second Stage of the International Geography Olympiad National Team Selection**  *(2017)*
 
