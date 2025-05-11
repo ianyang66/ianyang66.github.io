@@ -66,4 +66,10 @@ Reviewer
 * ICCES 2025
 
 
+Lecturer
+======
+* Machine Learning Course - National Dong Hwa University *(2022)*
+  * Topic: A Workshop for Convolution Neural Network and its Applications.
+* Advanced Information Security Practices for Industries: Attack and Defense - National Taiwan Normal University *(2024)*
+  * Topic: Exploring the various stages of attack methods from the perspective of Cyber ​​Kill Chain - Malware.
 
