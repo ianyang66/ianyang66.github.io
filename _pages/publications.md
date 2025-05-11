@@ -87,10 +87,6 @@ Those with link (blue text) indicate current positions as researchers.
   [**<u>Guan-Yan Yang</u>**](https://orcid.org/0009-0002-2539-9057), [*Farn Wang*<sup>*</sup>](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
   Submitted to **IEEE Transactions on Consumer Electronics** (SCI; Q1 76.3%; Impact Factor = 4.3) on 2025.03.15; Revision 1 on 2025.04.22.
 
-- **Cryptanalysis of the Certificateless Aggregate Signature for Network Communication**  
-  [*<u>Wayne Chiu</u>(IEEE Member)*](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW), [**<u>Guan-Yan Yang</u>**](https://orcid.org/0009-0002-2539-9057), [*<u>Hu Xiong</u>(IEEE Senior Member)*](https://scholar.google.com/citations?user=dZR8algAAAAJ&hl=zh-CN), [*<u>Willy Susilo</u>(IEEE Fellow)*](https://scholar.google.com.au/citations?user=eNOmOvkAAAAJ&hl=en), [*<u>Weizhi Meng</u>*<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=OlepJ5wAAAAJ&hl=en)  
-  Submitted to **IEEE Transactions on Network and Service Management** (SCI; Q1 81%; Impact Factor = 4.7) on 2025.02.08.
-
 - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
   [Zhao Min Chen<sup>1</sup>](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), [Tien-Chih Lin<sup>1</sup>](https://tw.linkedin.com/in/dange-lin), [**<u>Guan-Yan Yang</u>**<sup>1</sup>](https://orcid.org/0009-0002-2539-9057), [Yu-Sheng Lin<sup>1</sup>](https://blog.star03.me/about/), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
   Submitted to **IEEE Transactions on Information Forensics and Security** (SCI; Q1 91.3%; Impact Factor = 6.3) on 2025.01.22.
@@ -102,6 +98,10 @@ Those with link (blue text) indicate current positions as researchers.
 - **ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test**  
   [**<u>Guan-Yan Yang</u>**<sup>1</sup>](https://orcid.org/0009-0002-2539-9057), Tzu-Yu Cheng<sup>1</sup>, Ya-Wen Teng, [*Farn Wang*<sup>*</sup>](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
   Submitted to **Journal of Network and Computer Applications**, ELSEVIER (SCI; Q1 95.8%; Impact Factor = 7.7) on 2024.11.04; Revision 1 due 2025.05.15.
+
+- **Cryptanalysis of the Certificateless Aggregate Signature for Network Communication**  
+  [*<u>Wayne Chiu</u>(IEEE Member)*](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW), [**<u>Guan-Yan Yang</u>**](https://orcid.org/0009-0002-2539-9057), [*<u>Hu Xiong</u>(IEEE Senior Member)*](https://scholar.google.com/citations?user=dZR8algAAAAJ&hl=zh-CN), [*<u>Willy Susilo</u>(IEEE Fellow)*](https://scholar.google.com.au/citations?user=eNOmOvkAAAAJ&hl=en), [*<u>Weizhi Meng</u>*<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=OlepJ5wAAAAJ&hl=en)  
+  Submitted to **IEEE Transactions on Network and Service Management** (SCI; Q1 81%; Impact Factor = 4.7) on 2024.06.25; Revision 1 on 2025.02.08; Revision 2 on 2025.04.20.
 
 ---
 
