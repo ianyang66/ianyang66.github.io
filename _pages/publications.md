@@ -68,7 +68,7 @@ Those with link (blue text) indicate current positions as researchers.
   Submitted to **TCSE** on 2025.05.11.
 
 - **FRLFuzz: Federated Reinforcement Learning-based Fuzzing**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Jin-Yi Lin, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chun Yi Lin, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
   Submitted to **TCSE** on 2025.05.07.
 
 - **Federated Reinforcement Learning-based Fuzzing on Internet of Energy**  
