@@ -23,7 +23,7 @@ title: "Honors"
     * The 4-year scholarship from National Dong Hwa University at Taiwan
 
 **Competitions**
-* **HITCON (Hackers in Taiwan Conference) CTF Competition - Taiwan Star Award (1st in Taiwan)** *(2024)*
+* **HITCON (Hackers in Taiwan Conference) CTF Competition - Taiwan Star Award (1st in Taiwan)** *(2023)*
     * World rank: 7th.
     * World hacking competition.
     * This is one of the DEFCON Finals qualifiers.
