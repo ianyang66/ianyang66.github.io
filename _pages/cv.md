@@ -17,11 +17,6 @@ Education
 
 Experience
 ======
-* 2025 - : Graduate Researcher
-  * Academia Sinica, Institute of Information Science
-  * Duties included: research on LLMs for fake news.
-  * Supervisor: [Prof. Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html)
-
 * 2024 - : Graduate Researcher
   * Taiwan Academic Cybersecurity Center, National Taiwan University of Science and Technology
   * Duties included: research on security and privacy for AI-driven systems.
