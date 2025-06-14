@@ -77,7 +77,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   Submitted to **TCSE** on 2025.05.07.
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
   Submitted to **IEEE Network** (SCI; Q1 90.7%; Impact Factor = 6.8) on 2025.05.01; Revision 1 due 2025.05.30.
 
 - **Driving Quality: How Good Questions Improve LLM Explanations**  
