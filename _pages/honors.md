@@ -23,6 +23,8 @@ title: "Honors"
     * The 4-year scholarship from National Dong Hwa University at Taiwan
 
 **Competitions**
+* **Advanced Information Security Summer School(AIS3) Pre-exam CTF - 11th** *(2025)*
+    * Host: Ministry of Education at Taiwan
 * **HITCON (Hackers in Taiwan Conference) CTF Competition - Taiwan Star Award (1st in Taiwan)** *(2023)*
     * World rank: 7th.
     * World hacking competition.

@@ -62,17 +62,21 @@ Those with link (blue text) indicate current positions as researchers.
 
 ## Under Review
 
+- **ProDirScan-GPT: Proxy-Based Directory Scanning with Large Language Model and GUI Testing**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, Zhao Min Chen, Chun-Yi Lin, Tzu-Yu Cheng,_Farn Wang<sup>*</sup>_, _Kuo-Hui Yeh<sup>*</sup>_  
+  Submitted to **IEEE Transactions on Reliability** (SCI; Q1 89.77%; Impact Factor = 5.0) on 2025.06.02.
+
+- **Federated Learning with Digital Twin for Enhancing Pedestrian Crossing Intention Prediction**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _Farn Wang_  
+  Submitted to **IEEE Transactions on Intelligent Transportation Systems** (SCI; Q1 98.63%; Impact Factor = 7.9) on 2025.05.25.
+
 - **Multi-Objective Evolution for Python Code Obfuscation with Class Confusion Strategies**  
   Tsung-Han Liu*<sup>*</sup>*, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>** , [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Submitted to **TCSE** on 2025.05.11.
 
 - **FRLFuzz: Federated Reinforcement Learning-based Fuzzing**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chun Yi Lin, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chun Yi Lin, Ping-Hsieh Ho, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
   Submitted to **TCSE** on 2025.05.07.
-
-- **Federated Reinforcement Learning-based Fuzzing on Internet of Energy**  
-  _[Kuo-Hui Yeh(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Yang Xiang<sup>*</sup>(IEEE Fellow)](https://scholar.google.com.au/citations?user=7ymTWY4AAAAJ&hl=en)_ 
-  Submitted to **IEEE Network** (SCI; Q1 90.7%; Impact Factor = 6.8) on 2025.05.06.
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
@@ -98,26 +102,3 @@ Those with link (blue text) indicate current positions as researchers.
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Tzu-Yu Cheng<sup>1</sup>, Ya-Wen Teng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **Journal of Network and Computer Applications**, ELSEVIER (SCI; Q1 95.8%; Impact Factor = 7.7) on 2024.11.04; Revision 1 due 2025.05.15.
 
-- **Cryptanalysis of the Certificateless Aggregate Signature for Network Communication**  
-  _[Wayne Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)(IEEE Member)_, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Hu Xiong](https://scholar.google.com/citations?user=dZR8algAAAAJ&hl=zh-CN)(IEEE Senior Member)_, _[Willy Susilo](https://scholar.google.com.au/citations?user=eNOmOvkAAAAJ&hl=en)(IEEE Fellow)_, _[Weizhi Meng](https://scholar.google.com/citations?user=OlepJ5wAAAAJ&hl=en)<sup>*</sup>(IEEE Senior Member)_  
-  Submitted to **IEEE Transactions on Network and Service Management** (SCI; Q1 81%; Impact Factor = 4.7) on 2024.05.25; Revision 1 on 2025.02.08; Revision 2 on 2025.04.20.
-
----
-
-## Future Submissions (May & June 2025)
-
-- **Digital Twin-Driven Federated Learning for Enhancing Autonomous Driving**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _Farn Wang_  
-  To be submitted to **IEEE Transactions on Intelligent Transportation Systems** (SCI; Q1 98.63%; Impact Factor = 7.9) in May 2025.
-
-- **GIFU: A New Dataset Towards Cross-Language, Cross-Platform, Cross-Modal Sequential UI Screen Actions**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Guan-Jie Wang, _Farn Wang_, _Kuo-Hui Yeh_, _Lun-Wei Ku_  
-  To be submitted to **ACML** in May 2025.
-
-- **ProDirScan-GPT: Proxy-Based Directory Scanning with Large Language Model and GUI Testing**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, _Farn Wang<sup>*</sup>_, _Kuo-Hui Yeh<sup>*</sup>_, _Lun-Wei Ku_  
-  To be submitted to **IEEE Transactions on Reliability** (SCI; Q1 89.77%; Impact Factor = 5.0) in June 2025.
-
-- **GUIDiff: Graph User Interface Prototype Generation**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Hao Chen Jiang, _Farn Wang<sup>*</sup>_, _Kuo-Hui Yeh<sup>*</sup>_, _Lun-Wei Ku_  
-  To be submitted to **IEEE Transactions on Software Engineering** (SCI; Q1 93.6%; Impact Factor = 6.5) in June 2025.
