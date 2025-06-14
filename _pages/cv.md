@@ -17,17 +17,17 @@ Education
 
 Experience
 ======
-* 2025 - : Graduate Researcher
+* 2025 - : Researcher
   * Acadmia Sinica, Taiwan
   * Duties included: research on natural language processing, and computational linguistics.
   * Supervisor: [Prof. Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html)
 
-* 2024 - : Graduate Researcher
+* 2024 - : Researcher
   * Taiwan Academic Cybersecurity Center, National Taiwan University of Science and Technology
   * Duties included: research on security and privacy for AI-driven systems.
   * Supervisor: [Prof. Kuo-Hui Yeh](https://scholar.google.com.tw/citations?user=nLG4OMAAAAAJ&hl=zh-TW) and [Prof. Shi-Cho Cha](https://www.cs.ntust.edu.tw/p/405-1102-106269,c10961.php?Lang=en)
 
-* 2022 - : Graduate Researcher
+* 2022 - : Researcher
   * National Taiwan University
   * Duties included: lead a ten-member team to research on AI safety, IoT security, HCI methodologies, and Generative AI.
   * Supervisor: [Prof. Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)
