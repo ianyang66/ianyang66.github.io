@@ -16,9 +16,7 @@ author_profile: true
 
 The asterisk **<sup>1</sup>** next to the author's name indicates co-first authorship.  
 The asterisk **<sup>*</sup>** next to the author's name indicates corresponding authorship.  
-The Taiwan professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/).  
-Foreign professor (researcher)'s name is italicized and underline, e.g., [*<u>Yang Xiang</u>*](https://scholar.google.com.au/citations?user=7ymTWY4AAAAJ&hl=en).  
-Those with link (blue text) indicate current positions as researchers.
+The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/).  
 
 ## Accepted
 
