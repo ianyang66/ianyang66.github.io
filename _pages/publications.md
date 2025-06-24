@@ -20,6 +20,14 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ## Accepted
 
+- **Multi-Objective Evolution for Python Code Obfuscation with Class Confusion Strategies**  
+  Tsung-Han Liu*<sup>*</sup>*, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>** , [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
+  Accepted to **TCSE** on 2025.06.
+
+- **FRLFuzz: Federated Reinforcement Learning-based Fuzzing**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chun Yi Lin, Ping-Hsieh Ho, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
+  Accepted to **TCSE** on 2025.06.
+
 - **TPSQLi: Test Prioritization for SQL Injection Vulnerability Detection in Web Applications**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)_, You-Zong Gu, Ya-Wen Teng, _[Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, Ping-Hsueh Ho, Wei-Ling Wen  
   Published in **Applied Sciences**, 2024 (SCI; Q1 76%; Impact Factor = 2.5).
@@ -67,14 +75,6 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 - **Federated Learning with Digital Twin for Enhancing Pedestrian Crossing Intention Prediction**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _Farn Wang_  
   Submitted to **IEEE Transactions on Intelligent Transportation Systems** (SCI; Q1 98.63%; Impact Factor = 7.9) on 2025.05.25.
-
-- **Multi-Objective Evolution for Python Code Obfuscation with Class Confusion Strategies**  
-  Tsung-Han Liu*<sup>*</sup>*, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>** , [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
-  Submitted to **TCSE** on 2025.05.11.
-
-- **FRLFuzz: Federated Reinforcement Learning-based Fuzzing**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chun Yi Lin, Ping-Hsieh Ho, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
-  Submitted to **TCSE** on 2025.05.07.
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
