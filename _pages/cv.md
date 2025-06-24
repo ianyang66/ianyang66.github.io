@@ -60,6 +60,5 @@ Reviewer
 
 Lecturer
 ======
-* Advanced Information Security Practices for Industries: Attack and Defense - National Taiwan Normal University *(2024)*
-  * Topic: Exploring the various stages of attack methods from the perspective of Cyber ​​Kill Chain - Malware.
-
+* Machine Learing Workshop - National Dong Hwa University*
+  * Topic: Computer Vision and Machine Learning
