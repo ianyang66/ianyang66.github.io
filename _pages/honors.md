@@ -25,13 +25,6 @@ title: "Honors"
 **Competitions**
 * **Advanced Information Security Summer School(AIS3) Pre-exam CTF - 11th** *(2025)*
     * Host: Ministry of Education at Taiwan
-* **HITCON (Hackers in Taiwan Conference) CTF Competition - Taiwan Star Award (1st in Taiwan)** *(2023)*
-    * World rank: 7th.
-    * World hacking competition.
-    * This is one of the DEFCON Finals qualifiers.
-* **DEFCON CTF Final - 3rd** *(2023)*
-    * Representing Taiwan (TWN48 team).
-    * World top hacking competition.
 * **TSMC DNA Internship Competition (R&D - DTP) - 1st** *(2023)*
     * Host: Taiwan Semiconductor Manufacturing Company Limited.
     * Project title: Exploring Design Rule Checking Quality Improvement With the Power of Machine Learning.
