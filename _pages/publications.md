@@ -25,7 +25,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   Accepted to **TCSE** on 2025.06.
 
 - **FRLFuzz: Federated Reinforcement Learning-based Fuzzing**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chun Yi Lin, Ping-Hsieh Ho, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chun-Yi Lin, Ping-Hsieh Ho, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), [*Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)  
   Accepted to **TCSE** on 2025.06.
 
 - **TPSQLi: Test Prioritization for SQL Injection Vulnerability Detection in Web Applications**  
