@@ -19,8 +19,8 @@ title: "Honors"
     * The 4-year fellowship from National Science and Technology Council at Taiwan
 * **Cybersecurity Scholarship** *(2023)*
     * USD 1,000
-* **Elite Entrance Scholarship** *(2018 - 2022)*
-    * The 4-year scholarship from National Dong Hwa University at Taiwan
+* **Eastern Elite Entrance Scholarship** *(2018 - 2021)*
+    * The 3-year scholarship from National Dong Hwa University at Taiwan
 
 **Competitions**
 * **Advanced Information Security Summer School(AIS3) Pre-exam CTF - 11th** *(2025)*
