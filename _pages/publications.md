@@ -77,7 +77,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   Submitted to **Journal of Information Security and Applications** on 2025.08.03.
 
 - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
-  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
   Submitted to **Computers & Security** on 2025.07.30.
 
 - **A Semantic-Aware Key Matching Approach for Data Minimization in Web Applications**  
@@ -94,7 +94,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 
 - **Federated Learning with Digital Twin for Enhancing Pedestrian Crossing Intention Prediction**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _Farn Wang_  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Submitted to **IEEE Transactions on Intelligent Transportation Systems** on 2025.05.25.
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
