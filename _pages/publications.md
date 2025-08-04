@@ -73,7 +73,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   Submitted to **Expert Systems With Applications** on 2025.08.04.
 
 - **Class-based Obfuscation with Multi-Objective Evolution Algorithms on Source Code**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Tsung-Han Liu*<sup>*</sup>*, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Tsung-Han Liu, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **Journal of Information Security and Applications** on 2025.08.03.
 
 - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
@@ -81,7 +81,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   Submitted to **Computers & Security** on 2025.07.30.
 
 - **A Semantic-Aware Key Matching Approach for Data Minimization in Web Applications**  
-  Ching-En Tsai, Hsueh-Yi Chen, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chung-Wei Chuang, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
+  Ching-En Tsai, Hsueh-Yi Chen, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
   Submitted to **The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)** on 2025.07.19.
 
 - **ProDirScan: A Hybrid LLM-Powered Framework for Proxy-Based Directory Scanning**  
