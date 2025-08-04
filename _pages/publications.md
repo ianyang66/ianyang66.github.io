@@ -42,11 +42,11 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 - **Application of Simplified Swarm Optimization on Graph Convolutional Networks**  
   Ho-Yin Wong<sup>1</sup>, **[Guan-Yan Yang<sup>1,*</sup>](https://orcid.org/0009-0002-2539-9057)**, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
-  Published in **ICCES 2024**, Singapore.
+  Published in **The 30th ICCES (ICCES2024)**, Singapore.
 
 - **Automated Vulnerability Detection Using Deep Learning Technique**  
   **[Guan-Yan Yang<sup>*</sup>](https://orcid.org/0009-0002-2539-9057)**, Yi-Heng Ko, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, Haw-Shiang Chang, Hsueh Yi Chen  
-  Published in **ICCES 2024**, Singapore (**Best Paper**).
+  Published in **The 30th ICCES (ICCES2024)**, Singapore (**Best Paper**).
 
 - **A Secure Interoperability Management Scheme for Cross-Blockchain Transactions**  
   _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Chanapha Butpheng](https://scholar.google.com/citations?user=UmmojZwAAAAJ&hl=zh-TW&oi=ao)_, [Lin-Fa Lee](https://dblp.org/pid/307/7952.html), _[Yin-Ho Liu<sup>*</sup>](https://sys.ndhu.edu.tw/RD/TeacherTreasury/tlist.aspx?tcher=11767)_  
@@ -82,11 +82,16 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 - **A Semantic-Aware Key Matching Approach for Data Minimization in Web Applications**  
   Ching-En Tsai, Hsueh-Yi Chen, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chung-Wei Chuang, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
-  Submitted to **IEEE/ACM International Conference on Software Engineering (ICSE 2026)** on 2025.07.19.
+  Submitted to **The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)** on 2025.07.19.
 
 - **ProDirScan: A Hybrid LLM-Powered Framework for Proxy-Based Directory Scanning**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, Zhao Min Chen, Chun-Yi Lin, Tzu-Yu Cheng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **IEEE Transactions on Reliability** on 2025.06.02.
+
+- **WebUI-Cap: A Multimodal Dataset for Enhanced Visual Web User Interface Understanding and Generation**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Hao-Chen Jiang<sup>1</sup>, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_, [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) 
+  Submitted to **The 17th Asian Conference on Machine Learning (ACML 2025)** on 2025.05.31.
+
 
 - **Federated Learning with Digital Twin for Enhancing Pedestrian Crossing Intention Prediction**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _Farn Wang_  
@@ -94,7 +99,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
-  Submitted to **IEEE Network** on 2025.05.01; Revision 1 due 2025.05.30.
+  Submitted to **IEEE Network** on 2025.05.01.
 
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
