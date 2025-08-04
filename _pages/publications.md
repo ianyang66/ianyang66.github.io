@@ -89,7 +89,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   Submitted to **IEEE Transactions on Reliability** on 2025.06.02.
 
 - **WebUI-Cap: A Multimodal Dataset for Enhanced Visual Web User Interface Understanding and Generation**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Hao-Chen Jiang<sup>1</sup>, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_, [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) 
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Hao-Chen Jiang<sup>1</sup>, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_, [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html)  
   Submitted to **The 17th Asian Conference on Machine Learning (ACML 2025)** on 2025.05.31.
 
 
