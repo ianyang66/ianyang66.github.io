@@ -70,7 +70,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 - **Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chung-Wei Chuang, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **Expert Systems With Applications** on 2025.08.05.
+  Submitted to **Expert Systems With Applications** on 2025.08.04.
 
 - **Class-based Obfuscation with Multi-Objective Evolution Algorithms on Source Code**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Tsung-Han Liu*<sup>*</sup>*, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
