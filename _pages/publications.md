@@ -68,35 +68,39 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ## Under Review
 
-- **Class-based Obfuscation with Multi-Objective Evolution Algorithms on Source Code**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Tsung-Han Liu*<sup>*</sup>*, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **Journal of Information Security and Applications** (SCI; Q2 66.1%; Impact Factor = 3.7) on 2025.08.03.
+- **Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, Chung-Wei Chuang, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
+  Submitted to **Expert Systems With Applications** on 2025.08.05.
 
-- **ProDirScan-GPT: Proxy-Based Directory Scanning with Large Language Model and GUI Testing**  
+- **Class-based Obfuscation with Multi-Objective Evolution Algorithms on Source Code**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Tsung-Han Liu*<sup>*</sup>*, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
+  Submitted to **Journal of Information Security and Applications** on 2025.08.03.
+
+- **ProDirScan: A Hybrid LLM-Powered Framework for Proxy-Based Directory Scanning**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, Zhao Min Chen, Chun-Yi Lin, Tzu-Yu Cheng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **IEEE Transactions on Reliability** (SCI; Q1 89.77%; Impact Factor = 5.0) on 2025.06.02.
+  Submitted to **IEEE Transactions on Reliability** on 2025.06.02.
 
 - **Federated Learning with Digital Twin for Enhancing Pedestrian Crossing Intention Prediction**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _Farn Wang_  
-  Submitted to **IEEE Transactions on Intelligent Transportation Systems** (SCI; Q1 98.63%; Impact Factor = 7.9) on 2025.05.25.
+  Submitted to **IEEE Transactions on Intelligent Transportation Systems** on 2025.05.25.
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
-  Submitted to **IEEE Network** (SCI; Q1 90.7%; Impact Factor = 6.8) on 2025.05.01; Revision 1 due 2025.05.30.
+  Submitted to **IEEE Network** on 2025.05.01; Revision 1 due 2025.05.30.
 
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **IEEE Transactions on Consumer Electronics** (SCI; Q1 97.1%; Impact Factor = 10.9) on 2025.03.15.
+  Submitted to **IEEE Transactions on Consumer Electronics** on 2025.03.15.
 
 - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
   [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
-  Submitted to **Computers \& Security** (SCI; Q1 83.9%; Impact Factor = 5.4) on 2025.07.30.
+  Submitted to **Computers \& Security** on 2025.07.30.
 
 - **Autonomous Generative Adversarial Network for Privacy Obfuscation in Smart Healthcare**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
-  Submitted to **IEEE Journal of Biomedical and Health Informatics** (SCI; Q1 89.8%; Impact Factor = 6.7) on 2024.12.25.
+  Submitted to **IEEE Journal of Biomedical and Health Informatics** on 2024.12.25.
 
 - **ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Tzu-Yu Cheng<sup>1</sup>, Ya-Wen Teng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **Journal of Network and Computer Applications**, ELSEVIER (SCI; Q1 95.8%; Impact Factor = 7.7) on 2024.11.04.
+  Submitted to **Journal of Network and Computer Applications** on 2024.11.04.
 

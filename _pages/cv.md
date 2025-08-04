@@ -57,8 +57,4 @@ Experience
 Reviewer
 ======
 * IEEE Access
-
-Lecturer
-======
-* Machine Learing Workshop - National Dong Hwa University*
-  * Topic: Computer Vision and Machine Learning
+* Journal of Information Security and Applications, ELSEVIER

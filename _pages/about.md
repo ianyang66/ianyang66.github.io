@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- > [My publication list](https://scholar.google.com/citations?user=R1mNI8QAAAAJ&hl=en) -->
 
-Guan-Yan Yang is a Ph.D. student in electrical engineering and computer science at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Farn Wang](https://cc.ee.ntu.edu.tw/~farn/) (NTU, Taiwan).
+Guan-Yan Yang is a Ph.D. student in electrical engineering (computer science division) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Farn Wang](https://cc.ee.ntu.edu.tw/~farn/) (NTU, Taiwan).
 
 From November 2020 to August 2022, he served as a Researcher in the Department of Information Management at National Dong Hwa University. He was also affiliated with the Department of Information Management at National Taiwan University of Science and Technology (NTUST) from May 2021 to April 2022. From July 2023 to September 2023, he worked as a Software Engineer at Taiwan Semiconductor Manufacturing Company (TSMC), where he focused on researching artificial intelligence (AI) techniques, such as deep learning, machine learning, and generative AI, for solving design rule checking (DRC) problems. His research interests include cybersecurity, data privacy, generative artificial intelligence, Internet-of-Things, and software testing.
 
