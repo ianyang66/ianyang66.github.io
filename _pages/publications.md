@@ -76,6 +76,10 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Tsung-Han Liu*<sup>*</sup>*, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **Journal of Information Security and Applications** on 2025.08.03.
 
+- **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
+  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  Submitted to **Computers & Security** on 2025.07.30.
+
 - **ProDirScan: A Hybrid LLM-Powered Framework for Proxy-Based Directory Scanning**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, Zhao Min Chen, Chun-Yi Lin, Tzu-Yu Cheng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **IEEE Transactions on Reliability** on 2025.06.02.
@@ -91,10 +95,6 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **IEEE Transactions on Consumer Electronics** on 2025.03.15.
-
-- **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
-  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>(IEEE Senior Member)](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
-  Submitted to **Computers \& Security** on 2025.07.30.
 
 - **Autonomous Generative Adversarial Network for Privacy Obfuscation in Smart Healthcare**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
