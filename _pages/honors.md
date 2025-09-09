@@ -14,9 +14,9 @@ title: "Honors"
 **Scholarship/Fellowship**
 * **Dr. Norman and Lina Chang Scholarship** *(2025)*
     * USD 5,000
-    * 2 winners from the EECS department of NTU
+    * 2 winners from the EECS college of NTU
 * **NSTC Graduate Research Fellowship** *(2024 - 2027)*
-    * The 4-year fellowship from National Science and Technology Council at Taiwan
+    * The 3-year fellowship from National Science and Technology Council at Taiwan
 * **Cybersecurity Scholarship** *(2023)*
     * USD 1,000
 * **Eastern Elite Entrance Scholarship** *(2018 - 2021)*
@@ -28,9 +28,7 @@ title: "Honors"
 * **TSMC DNA Internship Competition (R&D - DTP) - 1st** *(2023)*
     * Host: Taiwan Semiconductor Manufacturing Company Limited.
     * Project title: Exploring Design Rule Checking Quality Improvement With the Power of Machine Learning.
-    * Optimized design rule checking quality, **saving over 400% in manpower costs**.
-    * AI assistant for design rules and coding, **accelerating programming speed by over 30%**.
-* **Hahow Course Recommendation Competition - 1st** *(2023)
+* **Hahow Course Recommendation Competition - 1st** *(2023)*
     * Host: Hahow Coporation
 * **Advanced Information Security Summer School(AIS3) EOF CTF - 13th** *(2023)*
     * Host: Ministry of Education at Taiwan

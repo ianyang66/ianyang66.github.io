@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- > [My publication list](https://scholar.google.com/citations?user=R1mNI8QAAAAJ&hl=en) -->
+<!-- > [My publication list](https://scholar.google.com/citations?user=iCdd6fAAAAAJ&hl=en) -->
 
 Guan-Yan Yang is a Ph.D. student in electrical engineering (computer science division) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Farn Wang](https://cc.ee.ntu.edu.tw/~farn/) (NTU, Taiwan).
 
