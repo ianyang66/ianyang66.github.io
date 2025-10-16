@@ -23,19 +23,19 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   in **IEEE Transactions on Consumer Electronics**, 2025. (SCI; Q1 97%; Impact Factor = 10.9; 5-Year Impact Factor = 8.6; Top 3% Journal)\\
-  [arxiv](https://arxiv.org/abs/2510.07109) / [ieee](https://doi.org/10.1109/TCE.2025.3620095)
+  [arxiv](https://arxiv.org/abs/2510.07109) / [IEEE](https://doi.org/10.1109/TCE.2025.3620095)
 
 
 - **ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Tzu-Yu Cheng<sup>1</sup>, Ya-Wen Teng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   in **Journal of Network and Computer Applications**, 2025. (SCI; Q1 96%; Impact Factor = 8.0; 5-Year Impact Factor = 7.9; Top 4% Journal)\\
-  [arxiv](https://arxiv.org/abs/2510.10281) / [ieee](https://doi.org/10.1016/j.jnca.2025.104356)
+  [arxiv](https://arxiv.org/abs/2510.10281) / [Elsevier](https://doi.org/10.1016/j.jnca.2025.104356)
 
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   in **IEEE Network**, 2025. (SCI; Q1 98%; Impact Factor = 6.3; 5-Year Impact Factor = 8.7; Top 2% Journal)\\
-  [arxiv](https://arxiv.org/abs/2508.20504) / [ieee](https://doi.org/10.1109/MNET.2025.3604422)
+  [arxiv](https://arxiv.org/abs/2508.20504) / [IEEE](https://doi.org/10.1109/MNET.2025.3604422)
 
 - **Multi-Objective Evolution for Python Code Obfuscation with Class Confusion Strategies**  
   Tsung-Han Liu*<sup>*</sup>*, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>** , [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
