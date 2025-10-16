@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Research Paper"
 permalink: /publications/
 author_profile: true
 ---
@@ -22,16 +22,20 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  in **IEEE Transactions on Consumer Electronics**, 2025. (SCI; Q1 97%; Impact Factor = 10.9; 5-Year Impact Factor = 8.6; Top 3% Journal)
+  in **IEEE Transactions on Consumer Electronics**, 2025. (SCI; Q1 97%; Impact Factor = 10.9; 5-Year Impact Factor = 8.6; Top 3% Journal)\\
+  [arxiv](https://arxiv.org/abs/2510.07109) / [ieee](https://doi.org/10.1109/TCE.2025.3620095)
+
 
 - **ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Tzu-Yu Cheng<sup>1</sup>, Ya-Wen Teng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  in **Journal of Network and Computer Applications**, 2025. (SCI; Q1 96%; Impact Factor = 8.0; 5-Year Impact Factor = 7.9; Top 4% Journal)
+  in **Journal of Network and Computer Applications**, 2025. (SCI; Q1 96%; Impact Factor = 8.0; 5-Year Impact Factor = 7.9; Top 4% Journal)\\
+  [arxiv](https://arxiv.org/abs/2510.10281) / [ieee](https://doi.org/10.1016/j.jnca.2025.104356)
+
 
 - **Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), _[Farn Wang<sup>*</sup>](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, [Jui-Ning Chen](https://orcid.org/0009-0002-6508-130X), _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   in **IEEE Network**, 2025. (SCI; Q1 98%; Impact Factor = 6.3; 5-Year Impact Factor = 8.7; Top 2% Journal)\\
-  [arxiv](https://arxiv.org/abs/2508.20504) (preferred) / [ieee](https://doi.org/10.1109/MNET.2025.3604422)
+  [arxiv](https://arxiv.org/abs/2508.20504) / [ieee](https://doi.org/10.1109/MNET.2025.3604422)
 
 - **Multi-Objective Evolution for Python Code Obfuscation with Class Confusion Strategies**  
   Tsung-Han Liu*<sup>*</sup>*, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>** , [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
@@ -42,7 +46,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   in **TCSE**, 2025.
 
 - **TPSQLi: Test Prioritization for SQL Injection Vulnerability Detection in Web Applications**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)_, You-Zong Gu, Ya-Wen Teng, _[Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, Ping-Hsueh Ho, Wei-Ling Wen  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, You-Zong Gu, Ya-Wen Teng, _[Kuo-Hui Yeh*](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, Ping-Hsueh Ho, Wei-Ling Wen  
   in **Applied Sciences**, 2024. (SCI; Q1 76%; Impact Factor = 2.5; 5-Year Impact Factor = 2.7)
 
 - **FuBuKi: Fuzzing Testing on Bluetooth with Profile Emulation Kit**  
@@ -59,14 +63,14 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 - **Automated Vulnerability Detection Using Deep Learning Technique**  
   **[Guan-Yan Yang<sup>*</sup>](https://orcid.org/0009-0002-2539-9057)**, Yi-Heng Ko, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, Haw-Shiang Chang, Hsueh Yi Chen  
-  in **The 30th ICCES (ICCES2024)**, Singapore. (**Best Paper**)
+  in **The 30th ICCES (ICCES2024)**, Singapore. (**Best Short Paper**)
 
 - **A Secure Interoperability Management Scheme for Cross-Blockchain Transactions**  
   _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Chanapha Butpheng](https://scholar.google.com/citations?user=UmmojZwAAAAJ&hl=zh-TW&oi=ao)_, [Lin-Fa Lee](https://dblp.org/pid/307/7952.html), _[Yin-Ho Liu<sup>*</sup>](https://sys.ndhu.edu.tw/RD/TeacherTreasury/tlist.aspx?tcher=11767)_  
   in **Symmetry**, 2022. (SCI; Q1 75.75%; Impact Factor = 2.2)
 
 - **Integrating FIDO Authentication with New Digital Identity in Taiwan**  
-  Wei-Han Lin, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  Wei-Han Lin, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   in **IEEE GCCE**, 2022.
 
 - **Towards a Novel Interoperability Management Scheme for Cross-Blockchain Transactions**  
@@ -104,10 +108,10 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 - **Class-based Obfuscation with Multi-Objective Evolution Algorithms on Source Code**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Tsung-Han Liu, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **Computers & Security** on August 2025. (Top 3 journal in Google Scholar's Security category)
+  Submitted to **International Journal of Information Security** on October 2025.
 
 - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
-  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh<sup>*</sup>](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_  
+  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **Computers & Security** on July 2025. (Top 3 journal in Google Scholar's Security category)
 
 - **A Semantic-Aware Key Matching Approach for Data Minimization in Web Applications**  

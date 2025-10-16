@@ -7,9 +7,7 @@ title: "Honors"
 <!-- * **AI for Cyber Security Scholarship** *(2025)*
     * USD 5,000
     * 1 winner from Denmark Government -->
-<!-- * **Pan Wen Yuan Scholarship** *(2024)*
-    * USD 1,500
-    * 3 winners from NTU -->
+
 
 **Scholarship/Fellowship**
 * **Dr. Norman and Lina Chang Scholarship** *(2025)*
@@ -17,8 +15,11 @@ title: "Honors"
     * 2 winners from the EECS college of NTU
 * **NSTC Graduate Research Fellowship** *(2024 - 2027)*
     * The 3-year fellowship from National Science and Technology Council at Taiwan
-* **Cybersecurity Scholarship** *(2023)*
-    * USD 1,000
+<!-- * **Cybersecurity Scholarship** *(2023)*
+    * USD 1,000 -->
+* **Pan Wen Yuan Scholarship** *(2023)*
+    * USD 1,500
+    * 3 winners from NTU
 * **Eastern Outstanding Student Admission Scholarship** *(2018 - 2021)*
     * The 3-year scholarship from National Dong Hwa University at Taiwan
 
