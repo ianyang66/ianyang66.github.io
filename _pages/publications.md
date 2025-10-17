@@ -100,7 +100,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 - **Securing Blockchain Interoperability in the Post-Quantum Era: Risks, Enterprise Implications, and Research Directions**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
-  Submitted to **IEEE IT Professional** on September 2025.
+  Submitted to **IEEE IT Professional** on August 2025.
 
 - **Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _[Wei-Yang Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
