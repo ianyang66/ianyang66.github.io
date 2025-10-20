@@ -20,6 +20,11 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ## Accepted
 
+- **Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _[Wei-Yang Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
+  in **Expert Systems With Applications**, 2025. \\
+  [SSRN without peer review](https://dx.doi.org/10.2139/ssrn.5496314) / [Elsevier after peer review; comming soon]()
+
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   in **IEEE Transactions on Consumer Electronics**, 2025. (SCI; Q1 97%; Impact Factor = 10.9; 5-Year Impact Factor = 8.6; Top 3% Journal)\\
@@ -102,10 +107,6 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Submitted to **IEEE IT Professional** on August 2025.
 
-- **Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _[Wei-Yang Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **Expert Systems With Applications** on August 2025.
-
 - **Class-based Obfuscation with Multi-Objective Evolution Algorithms on Source Code**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Tsung-Han Liu, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **International Journal of Information Security** on October 2025.
@@ -114,13 +115,13 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **Computers & Security** on July 2025. (Top 3 journal in Google Scholar's Security category)
 
-- **A Semantic-Aware Key Matching Approach for Data Minimization in Web Applications**  
+<!-- - **A Semantic-Aware Key Matching Approach for Data Minimization in Web Applications**  
   Ching-En Tsai, Hsueh-Yi Chen, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
-  Submitted to **The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)** on July 2025.
+  Submitted to **The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)** on July 2025. -->
 
 - **Federated Learning with Digital Twin for Enhancing Pedestrian Crossing Intention Prediction**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
-  Submitted to **IEEE Transactions on Intelligent Transportation Systems** on May 2025.
+  Submitted to **IEEE Transactions on Intelligent Transportation Systems** on April 2025.
 
 
   
