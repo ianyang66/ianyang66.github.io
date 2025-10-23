@@ -10,15 +10,13 @@ title: "Honors"
 
 
 **Scholarship/Fellowship**
-* **Dr. Norman and Lina Chang Scholarship** *(2025)*
-    * USD 5,000
+* **Norman and Lina Chang Foundation Research Scholarship** *(2025)*
+    * NTD 150,000
     * 2 winners from the EECS college of NTU
 * **NSTC Graduate Research Fellowship** *(2024 - 2027)*
     * The 3-year fellowship from National Science and Technology Council at Taiwan
-<!-- * **Cybersecurity Scholarship** *(2023)*
-    * USD 1,000 -->
 * **Pan Wen Yuan Scholarship** *(2023)*
-    * USD 1,500
+    * NTD 50,000
     * 3 winners from NTU
 * **Eastern Outstanding Student Admission Scholarship** *(2018 - 2021)*
     * The 3-year scholarship from National Dong Hwa University at Taiwan
