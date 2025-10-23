@@ -90,6 +90,10 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ## Under Review
 
+- **Lightweight and PUF-based Protocol for Provable Security Hieriechical Access Control in Industial Manufacturing**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)*, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>*_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
+  Submitted to **IEEE Sensors Journal** on September 2025.
+
 - **SAFE: An Autonomous Framework for Adaptive Privacy in AI-driven Social Systems**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**,  _[Wei-Yang Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)<sup>*</sup>_, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Submitted to **IEEE Transactions on Computational Social Systems** on September 2025.
@@ -128,3 +132,27 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 <!-- - **Autonomous Generative Adversarial Network for Privacy Obfuscation in Smart Healthcare**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Submitted to **IEEE Journal of Biomedical and Health Informatics** on 2024.12.25. -->
+
+---
+
+## Writing
+
+- **Blockchain and PUF-enabled Provable Secure Authentication in IoT-based Healthcare Systems**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>*_
+
+- **Heterogeneous Graph Learning for Intrusion Detection (Extension work of Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard)**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Ya-Wen Teng 
+
+- **GNN-NAD+ (Extension work of GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics)**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)** 
+
+- **PHP POP Chain Vulnerability Discovery**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Chun-Yi Lin, Ming-Hung Chen 
+
+- **IoT Vulnerability Discovery**  
+  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)** 
+  [Acer Leap Beads / Diing Insecure Firmware Update](https://zeroday.hitcon.org/vulnerability/ZD-2025-00445)
+
+- **Automated Verification for Web**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Su-Yuan Ku, Wei-Ling Wen, Kuo-Hui Yeh, Lun-Wei Ku, Farn Wang 
+
