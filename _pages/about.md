@@ -24,6 +24,8 @@ My primarily direction is on security and privacy of AI-driven systems. My recen
 
 Since Jan. 2025, I have also been researching with [Prof. Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) (Academia Sinica, Taiwan) on natural language processing, computational linguistics, and human computer interaction.
 
+New research topics: Price Forecasting and Intelligent Industrial Systems.
+
 I am always open to collaborations involving dense and deep discussions, where I can learn from new explorations and intense debates regardless of co-authorship.
 
 If you are interested in collaborating, please reach me at my email: [ianyangdoc@gmail.com](mailto:ianyangdoc@gmail.com).

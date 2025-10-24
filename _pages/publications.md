@@ -20,6 +20,11 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ## Accepted
 
+- **Taming Silent Failures: A Formal Framework for Verifiable AI Reliability**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
+  in **IEEE Reliability Magazine**, 2025. \\
+  [arxiv; comming soon]() / [IEEE; comming soon]()
+
 - **Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _[Wei-Yang Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   in **Expert Systems With Applications**, 2025. \\
@@ -90,9 +95,9 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ## Under Review
 
-- **Lightweight and PUF-based Protocol for Provable Security Hieriechical Access Control in Industial Manufacturing**  
+<!-- - **Lightweight and PUF-based Protocol for Provable Security Hieriechical Access Control in Industial Manufacturing**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)*, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>*_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
-  Submitted to **IEEE Sensors Journal** on September 2025.
+  Submitted to **IEEE Sensors Journal** on September 2025. -->
 
 - **SAFE: An Autonomous Framework for Adaptive Privacy in AI-driven Social Systems**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**,  _[Wei-Yang Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)<sup>*</sup>_, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
@@ -101,11 +106,6 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 - **ProDirScan: A Hybrid LLM-Powered Framework for Proxy-Based Directory Scanning**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, Zhao Min Chen, Chun-Yi Lin, Tzu-Yu Cheng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   Submitted to **IEEE Transactions on Information Forensics and Security** on September 2025. (Top 3 journal on Google Scholar's Security category)
-
-
-- **Taming Silent Failures: A Formal Framework for Verifiable AI Reliability**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
-  Submitted to **IEEE Reliability Magazine** on September 2025.
 
 - **Securing Blockchain Interoperability in the Post-Quantum Era: Risks, Enterprise Implications, and Research Directions**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
