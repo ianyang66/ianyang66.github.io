@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /member/
-title: "Team Member"
+permalink: /members/
+title: "Team Members"
 ---
 
 ## Current Members

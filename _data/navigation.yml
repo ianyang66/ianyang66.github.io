@@ -19,6 +19,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Team Members"
+    url: /members/
     
   # - title: "Message Board"
   #   url: /message-board/
