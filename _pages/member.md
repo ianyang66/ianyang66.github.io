@@ -23,6 +23,7 @@ title: "Team Members"
 
 * 王寬 (Kuan Wang)
     * LLM Architecture Optimization
+        * Advising by [Prof. Yuan-Hao Chang](https://www.csie.ntu.edu.tw/~johnson/)
 
 * 蕭博文
 

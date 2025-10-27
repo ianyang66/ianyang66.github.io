@@ -1,6 +1,7 @@
 ---
 permalink: /news/
 title: "News"
+author_profile: true
 ---
 
 - **(10 / 2025)** My first-author article, [Taming Silent Failures: A Framework for Verifiable AI Reliability](), has been accepted for publication in IEEE Reliability Magazine!
