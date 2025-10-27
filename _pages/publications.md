@@ -7,9 +7,9 @@ author_profile: true
 
 <!-- Welcome to collaborate on research. -->
 
-<!-- {% if site.author.googlescholar %}
+{% if site.author.googlescholar %}
   <div class="wordwrap">You can find most of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %} -->
+{% endif %}
 
 {% include base_path %}
 
@@ -20,7 +20,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ## Accepted
 
-- **Taming Silent Failures: A Formal Framework for Verifiable AI Reliability**  
+- **Taming Silent Failures: A Framework for Verifiable AI Reliability**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   in **IEEE Reliability Magazine**, 2025. \\
   [arxiv; comming soon]() / [IEEE; comming soon]()
@@ -28,7 +28,7 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 - **Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _[Wei-Yang Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
   in **Expert Systems With Applications**, 2025. \\
-  [SSRN without peer review](https://dx.doi.org/10.2139/ssrn.5496314) / [Elsevier after peer review; comming soon]()
+  [Elsevier after peer review; comming soon]()
 
 - **GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
@@ -135,15 +135,18 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ---
 
-## Writing
+## Current Research
 
-- **Blockchain and PUF-enabled Provable Secure Authentication in IoT-based Healthcare Systems**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>*_
+- **Blockchain and PUF-enabled Provable Secure Authentication in IoT-based Industial Manufacturing**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_
 
-- **Heterogeneous Graph Learning for Intrusion Detection (Extension work of Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard)**  
+- **GSL-IDS+ (Extension work of GSL-IDS)**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Ya-Wen Teng 
 
-- **GNN-NAD+ (Extension work of GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics)**  
+- **GSL-IDS++ (Extension work of GSL-IDS+)**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)** 
+
+- **GNN-NAD+ (Extension work of GNN-NAD)**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)** 
 
 - **PHP POP Chain Vulnerability Discovery**  
@@ -156,3 +159,5 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 - **Automated Verification for Web**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Su-Yuan Ku, Wei-Ling Wen, Kuo-Hui Yeh, Lun-Wei Ku, Farn Wang 
 
+- **Wafer Map Defect Detection**  
+  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Su-Yuan Ku 
