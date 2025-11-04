@@ -20,8 +20,8 @@ main:
   - title: "Honors"
     url: /honors/
     
-  - title: "Team Members"
-    url: /members/
+  # - title: "Team Members"
+  #   url: /members/
 
   - title: "CV"
     url: https://drive.google.com/file/d/1kWZY9OmWhFKD4v8aKjchPNyxM4XPC9fg/view?usp=sharing
