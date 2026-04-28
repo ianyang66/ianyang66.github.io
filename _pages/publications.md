@@ -20,6 +20,13 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 
 ## Accepted
 
+- **FuBuKi: Fuzzing Testing on Bluetooth with Profile Emulation Kit**  
+  [Zhao Min Chen*](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin), [**Guan-Yan Yang<sup>*</sup>**](https://orcid.org/0009-0002-2539-9057), [Yu-Sheng Lin](https://blog.star03.me/about/), _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
+  in **Computers \& Security**, 2026. (Top 3 journals in Google Scholar's Security category. Listed in the Top 1 journal in 2026.)     
+
+- **SemLink: A Semantic-Aware Automated Test Oracle for Hyperlink Verification using Siamese Sentence-BERT**
+- **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [Wei-Ling Wen](https://orcid.org/0009-0003-2511-4389), Shu-Yuan Ku, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_ in **19th IEEE International Conference on Software Testing, Verification and Validation (ICST)**, 2026. (ICORE Rank A Conference; Accepted Rate: 26\%.) 
+
 - **Taming Silent Failures: A Framework for Verifiable AI Reliability**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   in **IEEE Reliability Magazine**, 2025. \\
@@ -58,9 +65,6 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   [Zhao Min Chen*](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), [Yu-Sheng Lin](https://blog.star03.me/about/), [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin), [**Guan-Yan Yang<sup>*</sup>**](https://orcid.org/0009-0002-2539-9057), _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
   in **33rd USENIX Security Symposium (USENIX Security 24) Poster Session**, 2024.  
   - **Top-tier international conference in information security.** 
-  - **According to the statement by the cybersecurity committee member of the National Science and Technology Council: Over the past 20 years, on average, fewer than one Taiwanese research team has been accepted each year.**
-  - Research conducted in collaboration with CyCraft.  
-  - Key contribution: Systematic discovery of potentially **system crashes** in Tesla vehicles.
 
 - **Application of Simplified Swarm Optimization on Graph Convolutional Networks**  
   Ho-Yin Wong<sup>1</sup>, **[Guan-Yan Yang<sup>1,*</sup>](https://orcid.org/0009-0002-2539-9057)**, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
@@ -94,33 +98,33 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)*, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>*_, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
   Submitted to **IEEE Sensors Journal** on September 2025. -->
 
-- **SAFE: An Autonomous Framework for Adaptive Privacy in AI-driven Social Systems**  
+<!-- - **SAFE: An Autonomous Framework for Adaptive Privacy in AI-driven Social Systems**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**,  _[Wei-Yang Chiu](https://scholar.google.com/citations?user=rP2btXQAAAAJ&hl=zh-TW)<sup>*</sup>_, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
-  Submitted to **IEEE Transactions on Computational Social Systems** on September 2025.
+  Submitted to **IEEE Transactions on Computational Social Systems** on September 2025. -->
 
-- **ProDirScan: A Hybrid LLM-Powered Framework for Proxy-Based Directory Scanning**  
+<!-- - **ProDirScan: A Hybrid LLM-Powered Framework for Proxy-Based Directory Scanning**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, Ping-Hsieh Ho<sup>1</sup>, Zhao Min Chen, Chun-Yi Lin, Tzu-Yu Cheng, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **IEEE Transactions on Information Forensics and Security** on September 2025. (Top 3 journal on Google Scholar's Security category)
+  Submitted to **IEEE Transactions on Information Forensics and Security** on September 2025. (Top 3 journal on Google Scholar's Security category) -->
 
-- **Securing Blockchain Interoperability in the Post-Quantum Era: Risks, Enterprise Implications, and Research Directions**  
+<!-- - **Securing Blockchain Interoperability in the Post-Quantum Era: Risks, Enterprise Implications, and Research Directions**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
-  Submitted to **IEEE IT Professional** on August 2025.
+  Submitted to **IEEE IT Professional** on August 2025. -->
 
-- **Class-based Obfuscation with Multi-Objective Evolution Algorithms on Source Code**  
+<!-- - **Class-based Obfuscation with Multi-Objective Evolution Algorithms on Source Code**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Tsung-Han Liu, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)<sup>*</sup>_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **International Journal of Information Security** on October 2025.
+  Submitted to **International Journal of Information Security** on October 2025. -->
 
-- **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
+<!-- - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
   [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758)<sup>1</sup>, [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin)<sup>1</sup>, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>1</sup>**, [Yu-Sheng Lin](https://blog.star03.me/about/)<sup>1</sup>, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  Submitted to **Computers & Security** on July 2025. (Top 3 journal in Google Scholar's Security category)
+  Submitted to **Computers & Security** on July 2025. (Top 3 journal in Google Scholar's Security category)  -->
 
 <!-- - **A Semantic-Aware Key Matching Approach for Data Minimization in Web Applications**  
   Ching-En Tsai, Hsueh-Yi Chen, **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_  
   Submitted to **The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)** on July 2025. -->
 
-- **Federated Learning with Digital Twin for Enhancing Pedestrian Crossing Intention Prediction**  
+<!-- - **Federated Learning with Digital Twin for Enhancing Pedestrian Crossing Intention Prediction**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
-  Submitted to **IEEE Transactions on Intelligent Transportation Systems** on April 2025.
+  Submitted to **IEEE Transactions on Intelligent Transportation Systems** on April 2025.  -->
 
 
   
@@ -128,31 +132,3 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
   Submitted to **IEEE Journal of Biomedical and Health Informatics** on 2024.12.25. -->
 
----
-
-## Current Research
-
-- **Blockchain and PUF-enabled Provable Secure Authentication in IoT-based Industial Manufacturing**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_
-
-- **GSL-IDS+ (Extension work of GSL-IDS)**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Ya-Wen Teng 
-
-- **GSL-IDS++ (Extension work of GSL-IDS+)**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)** 
-
-- **GNN-NAD+ (Extension work of GNN-NAD)**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)** 
-
-- **PHP POP Chain Vulnerability Discovery**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Chun-Yi Lin, Ming-Hung Chen 
-
-- **IoT Vulnerability Discovery**  
-  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)** 
-  [Acer Leap Beads / Diing Insecure Firmware Update](https://zeroday.hitcon.org/vulnerability/ZD-2025-00445)
-
-- **Automated Verification for Web**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Su-Yuan Ku, Wei-Ling Wen, Kuo-Hui Yeh, Lun-Wei Ku, Farn Wang 
-
-- **Wafer Map Defect Detection**  
-  **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)**, Su-Yuan Ku 
