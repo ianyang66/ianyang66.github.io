@@ -21,11 +21,12 @@ The professor's name is italicized and hyperlinked, e.g., [*Farn Wang*](https://
 ## Accepted
 
 - **Uncovering Bluetooth Vulnerabilities with Binary Coverage-Guided Fuzz Testing and Controller Emulation**  
-  [Zhao Min Chen*](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin), [**Guan-Yan Yang<sup>*</sup>**](https://orcid.org/0009-0002-2539-9057), [Yu-Sheng Lin](https://blog.star03.me/about/), _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
-  in **Computers & Security**, 2026. (Top 3 journals in Google Scholar's Security category. Listed in the Top 1 journal in 2026.)     
+  [Zhao Min Chen](https://cybersec.ithome.com.tw/2025/en/speaker-page/1758), [Tien-Chih Lin](https://tw.linkedin.com/in/dange-lin), [**Guan-Yan Yang<sup>*</sup>**](https://orcid.org/0009-0002-2539-9057), [Yu-Sheng Lin](https://blog.star03.me/about/), _[Farn Wang](https://cc.ee.ntu.edu.tw/~farn/)_, _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_  
+  in **Computers & Security**, 2026.     
 
 - **SemLink: A Semantic-Aware Automated Test Oracle for Hyperlink Verification using Siamese Sentence-BERT**
-- **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [Wei-Ling Wen](https://orcid.org/0009-0003-2511-4389), Shu-Yuan Ku, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_ in **19th IEEE International Conference on Software Testing, Verification and Validation (ICST)**, 2026. (ICORE Rank A Conference; Accepted Rate: 16%.) 
+- **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [Wei-Ling Wen](https://orcid.org/0009-0003-2511-4389), Shu-Yuan Ku, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/), _[Kuo-Hui Yeh](https://scholar.google.com/citations?user=nLG4OMAAAAAJ&hl=zh-TW)<sup>*</sup>_ in **19th IEEE International Conference on Software Testing, Verification and Validation (ICST)**, 2026. (ICORE Rank A Conference; Accepted Rate: 26%.) 
+  - ** IEEE Computer Society Technical Community on Software Engineering Distinguished Paper Award.
 
 - **Taming Silent Failures: A Framework for Verifiable AI Reliability**  
   **[Guan-Yan Yang](https://orcid.org/0009-0002-2539-9057)<sup>*</sup>**, [*Farn Wang*](https://cc.ee.ntu.edu.tw/~farn/)  
