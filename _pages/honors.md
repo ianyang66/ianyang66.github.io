@@ -8,6 +8,8 @@ title: "Honors"
     * USD 5,000
     * 1 winner from Denmark Government -->
 
+**Award**
+* IEEE Computer Society TCSE Distinguished Paper Award in ICST 2026.
 
 **Scholarship/Fellowship**
 * **Norman and Lina Chang Foundation Research Scholarship** *(2025)*

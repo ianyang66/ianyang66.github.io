@@ -4,6 +4,8 @@ title: "News"
 author_profile: true
 ---
 
+- **(05 / 2026)** My first-author article, [SemLink: A Semantic-Aware Automated Test Oracle for Hyperlink Verification using Siamese Sentence-BERT](https://arxiv.org/html/2604.05711), has been earned IEEE Computer Society Technical Community on Software Engineering Distinguished Paper Award at IEEE ICST 2026!
+- **(02 / 2026)** My first-author article, [SemLink: A Semantic-Aware Automated Test Oracle for Hyperlink Verification using Siamese Sentence-BERT](https://arxiv.org/html/2604.05711), has been accepted for presenting on IEEE ICST 2026!
 - **(10 / 2025)** My first-author article, [Taming Silent Failures: A Framework for Verifiable AI Reliability](), has been accepted for publication in IEEE Reliability Magazine!
 - **(10 / 2025)** My first-author journal article, [GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics](https://arxiv.org/abs/2510.07109), has been accepted for publication in IEEE Transactions on Consumer Electronics (TCE)!
 - **(10 / 2025)** My first-author journal article, [ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test](https://arxiv.org/abs/2510.10281), has been accepted for publication in Journal of Network and Computer Applications (JNCA)!  Thanks to my collaborators' help, espeicially Tzu-Yu Cheng!
