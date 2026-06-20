@@ -26,4 +26,4 @@ If you are interested in collaborating, please reach me at my email: [yanggy@acm
 ## Visitors
 
 <br>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JbSHTtGE3GD1BUYExmhe9kfiyfxHKYRmkL8s4_oNn9M&w=200"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=aGxQ8A_U40NaxF2z4ZaTII6flntLGJ5FUdm1qVRj-9g&cl=ffffff&w=a"></script>
