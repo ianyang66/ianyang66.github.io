@@ -16,7 +16,7 @@ He is a graduate student member of the IEEE Computer Society, IEEE Reliability S
 
 ---
 
-> [My Curriculum Vitae](https://drive.google.com/file/d/1kWZY9OmWhFKD4v8aKjchPNyxM4XPC9fg/view?usp=sharing)
+> [My Curriculum Vitae](https://drive.google.com/file/d/1FRH9QKcrm_giriR1twDMHcYOlic0yjSg/view?usp=sharing)
 
 I am always open to collaborations involving dense and deep discussions, where I can learn from new explorations and intense debates regardless of co-authorship.
 
